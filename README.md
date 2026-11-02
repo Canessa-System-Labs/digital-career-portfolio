@@ -38,9 +38,7 @@ A digital career portfolio answers that by showing the work the way a product is
 <a name="what-makes-it-different"></a>
 <img src="assets/ch-what-makes-it-different.svg" width="100%" alt="04 What makes it different: Honest status, built for every device">
 
-<img src="assets/ladder.svg" width="100%" alt="Status ladder animation: Design, Build, Test and Release fill in order.">
-
-**Status you can trust.** Every project carries a Design → Build → Test → Release ladder, and the build refuses a claim that runs ahead of the evidence.
+**Status you can trust.** Each project shows its released version and what it gives you, or "Coming soon"; behind the page, the build refuses a claim that runs ahead of the evidence.
 
 **Built for the device in your visitor's hand.**
 
